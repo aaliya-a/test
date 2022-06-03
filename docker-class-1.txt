@@ -130,7 +130,7 @@ reference
    82  docker tag mycuzimage aaliya023/myimage
    83  docker images
    84  docker push aaliya023/myimage
-
+   85 docker ps -a
 
 
 
